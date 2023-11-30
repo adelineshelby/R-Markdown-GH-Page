@@ -1,1 +1,1 @@
-# R-Markdown-Git-Hub-Page
+# R-Markdown-GH-Page
